@@ -1,0 +1,44 @@
+# Ignore all folders and files in Resume directory EXCEPT GitHub profile files
+
+# Ignore educational folders
+Electrical Engineering-Bachelor/
+Electrical Engineering-Control-Master/
+English/
+IELTS/
+Industrial Automation/
+
+# Ignore other GitHub profile example folder
+githubprofile-mainpage/
+
+# Ignore resume file
+resume.md
+
+# Keep only these files/folders for the GitHub profile:
+# - README.md
+# - .github/
+# - dist/
+# - profile-3d-contrib/
+# - github-metrics.svg
+# - .gitignore
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
