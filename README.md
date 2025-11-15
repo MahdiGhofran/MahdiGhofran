@@ -162,15 +162,5 @@ Welcome to my GitHub! Here you'll find repositories showcasing my work in DevOps
 
 ---
 
-
-![Metrics](https://github.com/MahdiGhofran/MahdiGhofran/blob/main/github-metrics.svg)
-
----
-
-
-
-
-
-
 Feel free to reach out about DevOps, automation, robotics, or AI systems – I'm always happy to collaborate and share knowledge!
 
